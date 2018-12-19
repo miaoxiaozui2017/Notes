@@ -1,5 +1,6 @@
 # Content
-C++ Language Tutorials:from：http://www.cplusplus.com/
+C++ Language Tutorials:  
+from：http://www.cplusplus.com/
 
 # How to build
 - on Linux(eg.Ubuntu 16.04)
