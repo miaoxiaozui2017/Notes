@@ -1,3 +1,3 @@
 # Notes
-C++ Language Tutorials
-from：http://www.cplusplus.com/
+[x] part 1:C++ Language Tutorials
+
